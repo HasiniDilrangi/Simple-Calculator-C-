@@ -1,0 +1,9 @@
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\DILRANGI\Desktop\18APP3724 S.O.M.H.Dilrangi\calculator\calculator\obj\Debug\calculator.pdb
